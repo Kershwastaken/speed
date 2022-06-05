@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed = "30"
+game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed = "80"
